@@ -1,3 +1,3 @@
-#!/bin/env python3
-print("Hello world")
-print("xxxxx")
+#!/bin/env python2
+print "Hello world"
+print "xxxxx"
