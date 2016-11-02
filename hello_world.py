@@ -2,9 +2,14 @@
 print("Hello world")
 
 
-class Hello:
+class ZHello:
     def __init__(self):
-        pass
+        print("xxxx")
+
+
+class Hello:
+    def __init__(self, ccc):
+        print(ccc)
 
 
 print("xxx")
