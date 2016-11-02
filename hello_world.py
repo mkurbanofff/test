@@ -7,4 +7,6 @@ class Hello:
         pass
 
 
-print("xxx")
+class HelloWorld:
+    def __init__(self):
+        pass
