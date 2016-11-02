@@ -1,3 +1,5 @@
 #!/bin/env python3
 print("Hello world")
-print("xxxxx")
+
+def main(val):
+    print val
