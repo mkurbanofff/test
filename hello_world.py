@@ -12,4 +12,8 @@ class Hello:
         print(ccc)
 
 
+class HelloWorld:
+    def __init__(self):
+        pass
+
 print("xxx")
